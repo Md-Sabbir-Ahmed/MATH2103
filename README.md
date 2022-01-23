@@ -28,21 +28,21 @@
 |No.|Date|Topics|:link:|Class Link|Extra information|
 |:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |A(1)|09/12/2021|unknown|[:blue_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(1)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(2)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(3)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(4)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(5)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(6)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(7)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|B(8)|25/12/2021|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(1)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(2)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(3)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(4)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(5)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(6)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
-|C(7)|05/01/2022|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(1)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(2)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(3)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(4)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(5)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(6)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(7)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|B(8)|25/12/2021|unknown|[:closed_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(1)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(2)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(3)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(4)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(5)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(6)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
+|C(7)|05/01/2022|unknown|[:orange_book:](www.google.com)|[ClassLink](www.google.com)||
 |D(1)|16/01/2022|unknown|[:green_book:](www.google.com)|[ClassLink](www.google.com)|Connected to L14|
 |D(2)|16/01/2022|unknown|[:green_book:](www.google.com)|[ClassLink](www.google.com)|Connected to L14|
 |D(3)|16/01/2022|unknown|[:green_book:](www.google.com)|[ClassLink](www.google.com)|Connected to L14|
