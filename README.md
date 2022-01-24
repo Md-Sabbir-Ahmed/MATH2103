@@ -43,10 +43,10 @@
 |C(5)|05/01/2022|unknown|[:orange_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
 |C(6)|05/01/2022|unknown|[:orange_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
 |C(7)|05/01/2022|unknown|[:orange_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
-|D(1)|16/01/2022|unknown|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
-|D(2)|16/01/2022|unknown|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
-|D(3)|16/01/2022|unknown|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
-|D(4)|16/01/2022|unknown|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
+|D(1)|16/01/2022|Vector Space , Subspace|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
+|D(2)|16/01/2022|Linear Combination of vectors , Linear dependence|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
+|D(3)|16/01/2022|Linearly Dependent|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
+|D(4)|16/01/2022|D2 & D3 Revision|[:green_book:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)|Connected to L14|
 |E(1)|20/01/2022|unknown|[:notebook:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
 |E(2)|20/01/2022|unknown|[:notebook:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
 |E(3)|20/01/2022|unknown|[:notebook:](https://www.protectedtext.com/math2103)|[ClassLink](https://www.protectedtext.com/math2103)||
