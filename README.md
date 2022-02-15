@@ -21,6 +21,12 @@
 |L12|04/01/2022|Eigen values , Eigen vector ,  Characteristic Equation , Diagonalizes of a matrix ,  Cayley Hamilton Theorem |[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
 |L13|05/01/2022|Eigen values , Eigen vector ,  Characteristic Equation , Diagonalizes of a matrix ,  Cayley Hamilton Theorem , Finding A^2 using D|[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
 |L14|19/01/2022|Vector Space , 8 axioms of vector space , Subspace , Linear combination of vectors , Linear Dependence |[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online| Connected to D(1) , D(2) ,D(3) , D(4) |
+|L15|01/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
+|L16|02/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
+|L17|03/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
+|L18|08/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
+|L19|09/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
+|L20|10/02/2022||[:notebook_with_decorative_cover:](https://www.protectedtext.com/math2103)|Online||
 
 
 
